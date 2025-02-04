@@ -1,7 +1,5 @@
 # YourControls_IRIS_PC21
-# YourControls_IRIS_PC21
 
-YourControls_IRIS_PC21
 # Made for MSFS2020 and not validated for 2024
 
 *
