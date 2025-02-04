@@ -3,6 +3,7 @@
 # Made for MSFS2020 and not validated for 2024
 
 * Profile to work with YourControls application and MSFS2020. If you find any bugs, please contact me on YourControls Discord: Dkgolfnut_Dennis
+* Special thanks to @Angel for help troubleshooting the Autopilot functions to find conflict with Working Title definitions
 
 # Version 0.3
 
