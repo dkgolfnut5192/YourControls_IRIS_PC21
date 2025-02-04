@@ -7,7 +7,8 @@
 # Version 0.3
 
 # KNOWN ISSUES:
-   -  Buttons o the LEFT MDFD (LMFD) and RIGHT MFD (RMFD)have 2 stages of engagement. I have found slow long click transitions the options fine. Fast clicks may not sync between PIC and the Second pilots plane
+   -  Buttons on the LEFT MDFD (LMFD) and RIGHT MFD (RMFD) have 2 stages of engagement. I have found slow long click transitions the options fine.
+   -  # Fast clicks on AP buttons as well may not sync between PIC and the Second pilots plane
 
 # FIXES:
    -2/3/2025 removed conflicting WT definitions whihc allowed the Normal Autopilot definitions profile to work
